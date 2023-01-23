@@ -45,8 +45,10 @@
       <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/src/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/tailwind.config.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674208367481</updated>
       <workItem from="1674208368555" duration="354000" />
-      <workItem from="1674484139487" duration="7204000" />
+      <workItem from="1674484139487" duration="8611000" />
     </task>
     <servers />
   </component>
