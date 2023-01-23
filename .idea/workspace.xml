@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2da7204-5dca-4f56-b5ea-bf4797fce814" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/build-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development-fallback/0.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development-fallback/index.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/0.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/1.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/10.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/11.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/12.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/13.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/2.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/3.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/4.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/5.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/6.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/7.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/8.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/9.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/index.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/client-development/index.pack.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/0.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/1.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/10.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/11.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/12.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/13.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/14.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/15.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/2.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/3.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/4.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/5.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/6.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/7.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/8.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/9.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/index.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/cache/webpack/server-development/index.pack.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/react-loadable-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/middleware-build-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/middleware-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/middleware-react-loadable-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/pages-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/pages/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/pages/_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/pages/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/pages/users/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/server/webpack-runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/amp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/pages/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/pages/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/pages/users/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/react-refresh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/chunks/webpack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/development/_buildManifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/development/_ssgManifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/02a58ebbb095baa7.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/053eb49cf3466199.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/10be6c4269d432ea.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/138147ce65d3da48.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/16e23c133f929399.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/1cc6b39931e34962.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/20cf204a088be221.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/2107eaf7d01a5707.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/21e272ed921bde99.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/249cbd87a9cbaebf.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/25c4bf68e387abf7.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/2710ed34e9a21f17.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/34f00a9dd437c8f2.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/3b33aeaac108cc19.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/3c5628c170fee31d.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/402a85cb168ad414.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/405ed565a8bfeb8f.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/407e782fd1a3cb19.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/49da7127837be10b.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/4d76f012ab02a9df.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/51305b98f99c9141.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/51d59df32cd260f4.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/55881e892022a7fd.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/55b39d2f47b552b0.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/561aa3c3dcd87687.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/56900ac6632d7758.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/58bdedf1761caecf.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/5a18d29ce8b0697c.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/5e64293b79c19197.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/60b3c2e123db7226.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/631aefd7c5a59811.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/67a3f9a7c87927f6.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/6863fc1363fa8d06.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/6f084a6c5d8c32ad.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/73b5b0f5d1564612.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/79834469d308b618.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/830f500e7dd16f78.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/8393ccac656dab71.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/88e57992e97def76.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/8ad986b09f57fec1.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/8be1f38d03af2cd9.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/8ecc8d76cdf9c489.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/97504c6ed728e1e4.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/9980eb095e83b570.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/9e03fcb8dc802136.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/a6d35bb135c2a406.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/a6fa766eb54fc9b7.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/a8541e5b73d5076f.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/aee2ef48ba3ff2f4.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/b80fbb6ec828c0de.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/b8b3967df961a7a2.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/ba103efe8c62f0a7.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/bd1f4792189f6c2b.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/c4c2e32926650194.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/c66c68be362fc53d.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/c6f80523ac5be45c.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/c711276942cb1aa4.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/c7871a04a0faf3cc.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/cb9346b0d4ecdf1a.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/d21519acbfce1c52.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/d21a910600cfa36c.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/d5abab3305c4c3b8.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/d6ae5db9fa8585a7.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/d7f5a2057df61693.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/dd0d52b7e8586544.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/df8e7b270600260c.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/eb561f343f0cf2e1.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/f1d23effbf7ce67e.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/404.c711276942cb1aa4.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.10be6c4269d432ea.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.138147ce65d3da48.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.1cc6b39931e34962.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.25c4bf68e387abf7.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.34f00a9dd437c8f2.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.3b33aeaac108cc19.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.402a85cb168ad414.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.4d76f012ab02a9df.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.51d59df32cd260f4.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.55881e892022a7fd.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.58bdedf1761caecf.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.5e64293b79c19197.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.60b3c2e123db7226.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.6863fc1363fa8d06.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.6f084a6c5d8c32ad.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.73b5b0f5d1564612.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.8ecc8d76cdf9c489.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.a6d35bb135c2a406.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.b80fbb6ec828c0de.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.c4c2e32926650194.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.c66c68be362fc53d.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.cb9346b0d4ecdf1a.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.d21519acbfce1c52.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.d6ae5db9fa8585a7.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.df8e7b270600260c.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/index.f1d23effbf7ce67e.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/users.d6ae5db9fa8585a7.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/users/[id].16e23c133f929399.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/users/[id].49da7127837be10b.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/users/[id].631aefd7c5a59811.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/users/[id].830f500e7dd16f78.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/users/[id].8be1f38d03af2cd9.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/users/[id].97504c6ed728e1e4.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/users/[id].d5abab3305c4c3b8.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/pages/users/[id].d7f5a2057df61693.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.02a58ebbb095baa7.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.053eb49cf3466199.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.10be6c4269d432ea.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.138147ce65d3da48.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.16e23c133f929399.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.1cc6b39931e34962.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.20cf204a088be221.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.2107eaf7d01a5707.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.21e272ed921bde99.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.249cbd87a9cbaebf.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.25c4bf68e387abf7.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.2710ed34e9a21f17.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.34f00a9dd437c8f2.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.3b33aeaac108cc19.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.3c5628c170fee31d.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.402a85cb168ad414.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.405ed565a8bfeb8f.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.407e782fd1a3cb19.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.49da7127837be10b.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.4d76f012ab02a9df.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.51305b98f99c9141.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.51d59df32cd260f4.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.55881e892022a7fd.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.55b39d2f47b552b0.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.561aa3c3dcd87687.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.56900ac6632d7758.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.58bdedf1761caecf.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.5a18d29ce8b0697c.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.5e64293b79c19197.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.60b3c2e123db7226.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.631aefd7c5a59811.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.67a3f9a7c87927f6.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.6863fc1363fa8d06.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.6f084a6c5d8c32ad.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.73b5b0f5d1564612.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.79834469d308b618.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.830f500e7dd16f78.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.8393ccac656dab71.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.88e57992e97def76.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.8ad986b09f57fec1.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.8be1f38d03af2cd9.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.8ecc8d76cdf9c489.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.97504c6ed728e1e4.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.9980eb095e83b570.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.9e03fcb8dc802136.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.a6d35bb135c2a406.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.a6fa766eb54fc9b7.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.a8541e5b73d5076f.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.aee2ef48ba3ff2f4.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.b80fbb6ec828c0de.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.b8b3967df961a7a2.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.ba103efe8c62f0a7.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.bd1f4792189f6c2b.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.c4c2e32926650194.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.c66c68be362fc53d.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.c6f80523ac5be45c.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.c711276942cb1aa4.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.c7871a04a0faf3cc.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.cb9346b0d4ecdf1a.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.d21519acbfce1c52.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.d21a910600cfa36c.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.d5abab3305c4c3b8.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.d6ae5db9fa8585a7.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.d7f5a2057df61693.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.dd0d52b7e8586544.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.df8e7b270600260c.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.eb561f343f0cf2e1.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/static/webpack/webpack.f1d23effbf7ce67e.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/.next/trace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/components/A.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/components/MainContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/pages/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/pages/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/pages/users.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/pages/users/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/styles/A.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/styles/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/styles/user.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-nextjs-project/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/fiebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/src/assets/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/src/assets/images/qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/src/assets/images/rustore.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schedule-site/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/fiebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/src/assets/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/src/assets/images/qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/src/assets/images/rustore.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scheduleSite/schedule-site/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KaMiVcsm5LCbNbtTT5VpiCpcv3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/MyProjects/spotifyClone",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettier.import.notification.dismissed": "true",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\dany\\AppData\\Roaming\\npm\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "ts.external.directory.path": "C:\\MyProjects\\spotifyClone\\server\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2da7204-5dca-4f56-b5ea-bf4797fce814" name="Changes" comment="" />
+      <created>1674208367481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674208367481</updated>
+      <workItem from="1674208368555" duration="354000" />
+      <workItem from="1674484139487" duration="6693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
